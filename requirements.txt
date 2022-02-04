@@ -1,0 +1,6 @@
+fastapi
+fastapi-users[sqlalchemy2]
+uvicorn[standard]
+aiosqlite
+alembic
+fastapi_utils
